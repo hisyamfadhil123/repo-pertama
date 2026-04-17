@@ -1,0 +1,4 @@
+Platform Kontrol Versi & Publikasi
+Pengenalan Git dan GitHub, 
+Alur kerja Commit-Push-Pull, dan 
+Deplyoment dokumen R-Markdown di GitHub Pages
